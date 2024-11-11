@@ -1,193 +1,128 @@
-# **Installer & Activited Microsoft Office For MacOS**
-
-**If You Like Please Donation**
-
-[![Donate with PayPal](https://img.shields.io/badge/PayPal-donate-orange)](https://www.paypal.me/alsyundawy)
-[![Sponsor with GitHub](https://img.shields.io/badge/GitHub-sponsor-orange)](https://github.com/sponsors/alsyundawy)
-[![Latest Version](https://img.shields.io/github/v/release/alsyundawy/Microsoft-Office-For-MacOS)](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/releases)
-[![Maintenance Status](https://img.shields.io/maintenance/yes/9999)](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/)
-[![License](https://img.shields.io/github/license/alsyundawy/Microsoft-Office-For-MacOS)](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/blob/master/LICENSE)
-[![GitHub Issues](https://img.shields.io/github/issues/alsyundawy/Microsoft-Office-For-MacOS)](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/alsyundawy/Microsoft-Office-For-MacOS)](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/pulls)
-[![GitHub Stars](https://img.shields.io/github/stars/alsyundawy/Microsoft-Office-For-MacOS?style=social)](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/alsyundawy/Microsoft-Office-For-MacOS?style=social)](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/network/members)
-[![GitHub Contributors](https://img.shields.io/github/contributors/alsyundawy/Microsoft-Office-For-MacOS?style=social)](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/graphs/contributors)
-
-**If you find this project helpful and would like to support it, please consider donating via https://www.paypal.me/alsyundawy. Thank you for your support!**
-
-**Jika Anda merasa terbantu dan ingin mendukung proyek ini, pertimbangkan untuk berdonasi melalui https://www.paypal.me/alsyundawy. Terima kasih atas dukungannya!**
-
-## Stargazers over time
-[![Stargazers over time](https://starchart.cc/alsyundawy/Microsoft-Office-For-MacOS.svg?variant=adaptive)](https://starchart.cc/alsyundawy/Microsoft-Office-For-MacOS)
-
-
-
-
----
-
-# Microsoft Office For Mac Installer
-
-**Microsoft Office LTSC 2021/2024 Suite Installer Volume License Version Version 16.90 (24101387) (Ongoing, Update Every Month) Minimum 13.x (Ventura With M1/M1 PRO/M1 MAX/M1 ULTRA/M2/M2 PRO/M2 MAX/M2 ULTRA/M3/M3 PRO/M3 MAX/M3 ULTRA/macOS Sequoia Native Support)**
-
-[Microsoft Office LTSC 2021 / LTSC 2024 / Office 365 Suite Installer](https://go.microsoft.com/fwlink/?linkid=525133)
-
-# Update history for Office for Mac
-
-[Update history for Office for Mac](https://learn.microsoft.com/en-us/officeupdates/update-history-office-for-mac)
-
----
-
-**Microsoft AutoUpdate (MAU) Standalone Installer	4.76 (Ongoing, Update Every Month) Minimum 10.14.x (macOS Sequoia Native Support)**
-
-[Microsoft AutoUpdate (MAU) Standalone Installer](https://go.microsoft.com/fwlink/?linkid=830196)
-
-**Microsoft Office 2024 LTSC Volume License Serializer**
-
-[Microsoft Office 2024 LTSC Volume License Serializer (Ventura With M1/M1 PRO/M1 MAX/M1 ULTRA/M2/M2 PRO/M2 MAX/M2 ULTRA/M3/M3 PRO/M3 MAX/M3 ULTRA/macOS Sequoia Native Support)](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/blob/master/DATA/Microsoft_Office_LTSC_2024_VL_Serializer.pkg)
-
-**Noted**
-
-[Microsoft Office For Mac 16.78 is the last build to support 2019 license types!!! - official docs! Click Here](https://support.microsoft.com/office/end-of-support-for-office-2019-for-mac-f2cbba0a-0773-4b2c-b417-b20b5bb2c757)
-
-[Microsoft Office For Mac 16.89 September 2024 update for Office requires a minimum of macOS Ventura - official docs! Click Here](https://go.microsoft.com/fwlink/?linkid=2015804)
-
-[Microsoft Office For Mac 16.88 August 2024 update for Office maximum of macOS Monterey - official docs! Click Here](https://go.microsoft.com/fwlink/?linkid=2015804)
-
-[Microsoft Office For Mac 16.78 October 2023 update for Office requires a minimum of macOS Monterey - official docs! Click Here](https://go.microsoft.com/fwlink/?linkid=2015804)
-
-[Microsoft Office For Mac 16.67 November 2022 update for Office requires a minimum of macOS Big Sur - official docs! Click Here](https://go.microsoft.com/fwlink/?linkid=2015804)
-
-
-**Microsoft Office 2019/LTSC 2021 Suite Installer Volume License Version 	16.88 (24081116) Maximum 12.0.x (Monterey)**
-
-[DOWNLOAD LINK INSTALLER](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.89.24091630_Installer.pkg)
-
-**Microsoft Office 2019/LTSC 2021 Suite Installer Volume License Version 16.78.3 (23102801) (When Serializer 2021 Not Working) Minimum 12.0.x (Monterey)**
-
-[DOWNLOAD LINK INSTALLER](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.78.23102801_Installer.pkg)
-
-
-**Microsoft Office 2019/LTSC 2021 Suite Installer Volume License Version 16.77 (23091003) Maximum 11.0.x (Big Sur)**
-
-[DOWNLOAD LINK INSTALLER](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.77.23091003_Installer.pkg)
-
-
-**Microsoft Word Update 2019/LTSC 2021 Installer 16.77.1 Maximum 11.0.x (Big Sur)**
-
-[DOWNLOAD LINK INSTALLER](https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.77.23091703_Updater.pkg)
-
-**Microsoft Excel Update 2019/LTSC 2021 Installer 16.77.1 Maximum 11.0.x (Big Sur)**
-
-[DOWNLOAD LINK INSTALLER](https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.77.23091703_Updater.pkg)
-
-**Microsoft PowerPoint Update 2019/LTSC 2021 Installer 16.77.1 Maximum 11.0.x (Big Sur)**
-
-[DOWNLOAD LINK INSTALLER](https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.77.23091703_Updater.pkg)
-
-**Microsoft Outlook Update 2019/LTSC 2021 Installer 16.77.1 Maximum 11.0.x (Big Sur)**
-
-[DOWNLOAD LINK INSTALLER](https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.77.23091703_Updater.pkg)
-
-
-**Microsoft Office 2019/LTSC 2021 Suite Installer Volume License Version 16.66 (22100900) Maximum 10.15.x (Catalina)**
-
-[DOWNLOAD LINK INSTALLER](https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.66.22101101_Installer.pkg)
-
-
-**Microsoft Office 2019 Suite Installer Volume License Version 16.54 (21101001) Maximum 10.14.x (Mojave)**
-
-[DOWNLOAD LINK INSTALLER](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.54.21101001_Installer.pkg)
-
-
-**Microsoft Office 2019 Suite Installer Volume License Version 16.43 (20110804)	 Maximum 10.13.x (High Sierra)**
-
-[DOWNLOAD LINK INSTALLER](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.43.20110804_Installer.pkg)
-
-
-**Microsoft Office 2016 Suite Installer Volume License Version 16.16.27 Minimum 10.10.x (Yosemite)**
-
-[DOWNLOAD LINK INSTALLER](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.16.20101200_Installer.pkg)
-
-
-**Microsoft Office 2011 Suite Installer Volume License Version 14.7.7 Minimum 10.6.8 (Snow Leopard)**
-
-[DOWNLOAD LINK INSTALLER](https://officecdn-microsoft-com.akamaized.net/PR/MacOffice2011/en-us/MicrosoftOffice2011.dmg)
-
-
----
-
-# Activator 
-
-**Microsoft Office 2016, 2019 2021 & 2024 Activator / License_Serializer**
-
-[Microsoft Office 2024 LTSC Volume License Serializer (Monterey With M1/M1 PRO/M1 MAX/M1 ULTRA/M2/M2 PRO/M2 MAX/M2 ULTRA/M3/M3 PRO/M3 MAX/M3 ULTRA/M4/M4 PRO/M4 MAX/M4 ULTRA/macOS Sequoia Native Support)](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/blob/master/DATA/Microsoft_Office_LTSC_2024_VL_Serializer.pkg)
-
-[Microsoft Office 2021 LTSC Volume License Serializer (Monterey With M1/M1 PRO/M1 MAX/M1 ULTRA/M2/M2 PRO/M2 MAX/M2 ULTRA/M3/M3 PRO/M3 MAX/M3 ULTRA/M4/M4 PRO/M4 MAX/M4 ULTRA/macOS SequoiaNative Support)](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/raw/master/DATA/Microsoft_Office_LTSC_2021_VL_Serializer.pkg)
-
-[Microsoft Office 2021 LTSC Volume License Serializer MSDN ISO (Monterey With M1/M1 PRO/M1 MAX/M1 ULTRA/M2/M2 PRO/M2 MAX/M2 ULTRA/M3/M3 PRO/M3 MAX/M3 ULTRA/M4/M4 PRO/M4 MAX/M4 ULTRA/macOS Sequoia Native Support)](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/raw/master/DATA/SW_DVD5_Office_Mac_Serializer_2021_MLF_X22-74226.ISO)
-
-[Microsoft Office 2019 Volume License Serializer  (M1/M1 PRO/M1 MAX/M1 ULTRA/M2/M2 PRO/M2 MAX/M2 ULTRA/M3/M3 PRO/M3 MAX/M3 ULTRA/M4/M4 PRO/M4 MAX/M4 ULTRA Support) Microsoft Office For Mac 16.78 is the last build to support 2019 license types ](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/raw/master/DATA/Microsoft_Office_2019_VL_Serializer_Universal.pkg)
-
-[Microsoft Office 2019 Volume License Serializer MSDN ISO (M1/M1 PRO/M1 MAX/M1 ULTRA/M2/M2 PRO/M2 MAX/M2 ULTRA/M3/M3 PRO/M3 MAX/M3 ULTRA/M4/M4 PRO/M4 MAX/M4 ULTRA Support) Microsoft Office For Mac 16.78 is the last build to support 2019 license types ](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/raw/master/DATA/SW_DVD5_Office_Mac_Serializer_2019_MLF_X22-61752.ISO)
-
-[Microsoft Office 2019 Volume License Serializer (Maximum Version 16.68 without 365)](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/raw/master/DATA/Microsoft_Office_2019_VL_Serializer.pkg)
-
-[Microsoft Office 2019 Volume License Serializer (MSDN ISO) (Maximum Version 16.68 without 365)](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/raw/master/DATA/SWDVD5_Office_Mac_Serializer_2019_MLF_X21-88135.iso)
-
-[Microsoft_Office_2016_Volume License Serializer_v2](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/raw/master/DATA/Microsoft_Office_2016_VL_Serializer_2.0.pkg)
-
-
-**Microsoft Office 2011 Activator**
-
-[Microsoft_Office_2011_Volume_License_Serializer](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/raw/master/DATA/vlmsommxi.dmg)
-
-**Or Keys**
-
-**2WBVT-PTKRB-2RH2B-X2DYY-QBXP4**
-
-**V22QX-RC6F3-CMWP7-WV6DH-K29P7**
-
-**KCDHJ-KGTKV-788PG-WVBQT-GRWX8**
-
-**4FVWX-W7Q37-GKYMW-JDWWR-89763**
-
-**6JTF2-PM3PD-62WQY-TBC3V-H7KKC**
-
-**4D484-GT8D2-CMR2M-WBJ49-GWFTD**
-
-**KB3V9-3T4X4-32YR6-MX62Q-CVMK4**
-
-**YPWTM-X3QR3-QHV8Q-9QH9H-RMHX3**
-
-**C7TTK-M29H8-9H7JR-P82WG-2DCDW**
-
----
-
-### (Optional step) Run the following commands on Terminal. They will disable telemetry. Copy and paste the following to the Terminal windows and hit "enter" / return key twice:
-```
-defaults write com.microsoft.Word SendAllTelemetryEnabled -bool FALSE
+<div class="Box-sc-g0xbh4-0 QkQOb js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><strong _msttexthash="65849914" _msthash="202">安装程序和激活的 Microsoft Office 适用于 MacOS</strong></h1><a id="user-content-installer--activited-microsoft-office-for-macos" class="anchor" aria-label="永久链接：安装程序和激活的Microsoft Office For MacOS" href="#installer--activited-microsoft-office-for-macos" _mstaria-label="2474472" _msthash="203"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><strong _msttexthash="29392636" _msthash="204">如果您喜欢 请捐款</strong></p>
+<p dir="auto"><a href="https://www.paypal.me/alsyundawy" rel="nofollow"><img src="https://camo.githubusercontent.com/c7c1498f81384a7370ca4159909095e20af1120b7c56d605befa0c9633aabd3b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50617950616c2d646f6e6174652d6f72616e6765" alt="使用 PayPal 捐款" data-canonical-src="https://img.shields.io/badge/PayPal-donate-orange" style="max-width: 100%;" _mstalt="307463" _msthash="205"></a>
+<a href="https://github.com/sponsors/alsyundawy"><img src="https://camo.githubusercontent.com/8525b27a6963c2737872a2e0a783c50f90064fb32c8b976c825e6c67227ab64a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d73706f6e736f722d6f72616e6765" alt="使用 GitHub 赞助" data-canonical-src="https://img.shields.io/badge/GitHub-sponsor-orange" style="max-width: 100%;" _mstalt="343889" _msthash="206"></a>
+<a href="https://github.com/alsyundawy/Microsoft-Office-For-MacOS/releases"><img src="https://camo.githubusercontent.com/67379f9c692fc72e9726ff28f5e24fb35f85436ab5b5ba438c0d9eae15734a22/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f762f72656c656173652f616c7379756e646177792f4d6963726f736f66742d4f66666963652d466f722d4d61634f53" alt="最新版本" data-canonical-src="https://img.shields.io/github/v/release/alsyundawy/Microsoft-Office-For-MacOS" style="max-width: 100%;" _mstalt="233662" _msthash="207"></a>
+<a href="https://github.com/alsyundawy/Microsoft-Office-For-MacOS/"><img src="https://camo.githubusercontent.com/ea550dc9a30916b31efea2447867f588627cca3d124a52e50f6bbc08cb548716/68747470733a2f2f696d672e736869656c64732e696f2f6d61696e74656e616e63652f7965732f39393939" alt="维护状态" data-canonical-src="https://img.shields.io/maintenance/yes/9999" style="max-width: 100%;" _mstalt="349440" _msthash="208"></a>
+<a href="https://github.com/alsyundawy/Microsoft-Office-For-MacOS/blob/master/LICENSE"><img src="https://camo.githubusercontent.com/008e852351d41e79afe3d84693310128c98941a411d86aa95e942d969aea28a2/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f616c7379756e646177792f4d6963726f736f66742d4f66666963652d466f722d4d61634f53" alt="许可证" data-canonical-src="https://img.shields.io/github/license/alsyundawy/Microsoft-Office-For-MacOS" style="max-width: 100%;" _mstalt="93288" _msthash="209"></a>
+<a href="https://github.com/alsyundawy/Microsoft-Office-For-MacOS/issues"><img src="https://camo.githubusercontent.com/06502a03c9a30114a4739d216bf567507cb90d2a3c95542e0bc16b0dfb810474/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6973737565732f616c7379756e646177792f4d6963726f736f66742d4f66666963652d466f722d4d61634f53" alt="GitHub 问题" data-canonical-src="https://img.shields.io/github/issues/alsyundawy/Microsoft-Office-For-MacOS" style="max-width: 100%;" _mstalt="201591" _msthash="210"></a>
+<a href="https://github.com/alsyundawy/Microsoft-Office-For-MacOS/pulls"><img src="https://camo.githubusercontent.com/e7545c23291ba5ec4f3078c395c8f59642ce1c8d180836d1619364eb5344db7e/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6973737565732d70722f616c7379756e646177792f4d6963726f736f66742d4f66666963652d466f722d4d61634f53" alt="GitHub 拉取请求" data-canonical-src="https://img.shields.io/github/issues-pr/alsyundawy/Microsoft-Office-For-MacOS" style="max-width: 100%;" _mstalt="381784" _msthash="211"></a>
+<a href="https://github.com/alsyundawy/Microsoft-Office-For-MacOS/stargazers"><img src="https://camo.githubusercontent.com/8d1d6fe2bdd0d3a05ebecacf7c6a91cd23de526c5fad10d09aa076fb0a460494/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f616c7379756e646177792f4d6963726f736f66742d4f66666963652d466f722d4d61634f533f7374796c653d736f6369616c" alt="GitHub 之星" data-canonical-src="https://img.shields.io/github/stars/alsyundawy/Microsoft-Office-For-MacOS?style=social" style="max-width: 100%;" _mstalt="175513" _msthash="212"></a>
+<a href="https://github.com/alsyundawy/Microsoft-Office-For-MacOS/network/members"><img src="https://camo.githubusercontent.com/9b865e470d25f3c45729dd4a359b0a148d30ea571eefe37729b079556a0594d7/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f726b732f616c7379756e646177792f4d6963726f736f66742d4f66666963652d466f722d4d61634f533f7374796c653d736f6369616c" alt="GitHub 分叉" data-canonical-src="https://img.shields.io/github/forks/alsyundawy/Microsoft-Office-For-MacOS?style=social" style="max-width: 100%;" _mstalt="174265" _msthash="213"></a>
+<a href="https://github.com/alsyundawy/Microsoft-Office-For-MacOS/graphs/contributors"><img src="https://camo.githubusercontent.com/aa5314dad8db17502e2654c6f5c25bdbb943de14f5b12e1c49a1e0e1219ea07b/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f636f6e7472696275746f72732f616c7379756e646177792f4d6963726f736f66742d4f66666963652d466f722d4d61634f533f7374796c653d736f6369616c" alt="GitHub 贡献者" data-canonical-src="https://img.shields.io/github/contributors/alsyundawy/Microsoft-Office-For-MacOS?style=social" style="max-width: 100%;" _mstalt="387205" _msthash="214"></a></p>
+<p dir="auto"><strong _msttexthash="446821648" _msthash="215">如果您觉得这个项目有帮助并希望支持它，请考虑通过 <a href="https://www.paypal.me/alsyundawy" rel="nofollow" _istranslated="1">https://www.paypal.me/alsyundawy</a> 捐款。感谢您的支持！</strong></p>
+<p dir="auto"><strong _msttexthash="187898620" _msthash="216">Jika Anda merasa terbantu dan ingin mendukung proyek ini， pertimbangkan untuk berdonasi melalui <a href="https://www.paypal.me/alsyundawy" rel="nofollow" _istranslated="1">https://www.paypal.me/alsyundawy</a>.Terima kasih atas dukungannya！</strong></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="40337193" _msthash="217">随时间推移的观星者</h2><a id="user-content-stargazers-over-time" class="anchor" aria-label="永久链接：随时间推移的观星者" href="#stargazers-over-time" _mstaria-label="791843" _msthash="218"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a href="https://starchart.cc/alsyundawy/Microsoft-Office-For-MacOS" rel="nofollow"><img src="https://camo.githubusercontent.com/67b954782ca4baef25b105dc870a995dd49679266bd53fb38cd98ba8f9d7527a/68747470733a2f2f7374617263686172742e63632f616c7379756e646177792f4d6963726f736f66742d4f66666963652d466f722d4d61634f532e7376673f76617269616e743d6164617074697665" alt="随时间推移的观星者" data-canonical-src="https://starchart.cc/alsyundawy/Microsoft-Office-For-MacOS.svg?variant=adaptive" style="max-width: 100%;" _mstalt="393328" _msthash="219"></a></p>
+<hr>
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto" _msttexthash="44131217" _msthash="220">Microsoft Office For Mac 安装程序</h1><a id="user-content-microsoft-office-for-mac-installer" class="anchor" aria-label="永久链接：Microsoft Office For Mac 安装程序" href="#microsoft-office-for-mac-installer" _mstaria-label="1397825" _msthash="221"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><strong _msttexthash="1150968169" _msthash="222">Microsoft Office LTSC 2021/2024 套件安装程序批量许可版本版本 16.90 （24101387）（持续，每月更新） 最低 13.x（Ventura 与 M1/M1 PRO/M1 MAX/M1 ULTRA/M2/M2 PRO/M2 MAX/M2 ULTRA/M3/M3 PRO/M3 MAX/M3 ULTRA/macOS Sequoia 本机支持）</strong></p>
+<p dir="auto"><a href="https://go.microsoft.com/fwlink/?linkid=525133" rel="nofollow" _msttexthash="106567669" _msthash="223">Microsoft Office LTSC 2021 / LTSC 2024 / Office 365 套件安装程序</a></p>
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto" _msttexthash="53276366" _msthash="224">Office for Mac 的更新历史记录</h1><a id="user-content-update-history-for-office-for-mac" class="anchor" aria-label="永久链接：Office for Mac 的更新历史记录" href="#update-history-for-office-for-mac" _mstaria-label="1295749" _msthash="225"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a href="https://learn.microsoft.com/en-us/officeupdates/update-history-office-for-mac" rel="nofollow" _msttexthash="53276366" _msthash="226">Office for Mac 的更新历史记录</a></p>
+<hr>
+<p dir="auto"><strong _msttexthash="580061846" _msthash="227">Microsoft AutoUpdate （MAU） 独立安装程序 4.76（持续，每月更新）最低 10.14.x（macOS Sequoia 本机支持）</strong></p>
+<p dir="auto"><a href="https://go.microsoft.com/fwlink/?linkid=830196" rel="nofollow" _msttexthash="124030270" _msthash="228">Microsoft AutoUpdate （MAU） 独立安装程序</a></p>
+<p dir="auto"><strong _msttexthash="124024173" _msthash="229">Microsoft Office 2024 LTSC 批量许可证序列化程序</strong></p>
+<p dir="auto"><a href="https://github.com/alsyundawy/Microsoft-Office-For-MacOS/blob/master/DATA/Microsoft_Office_LTSC_2024_VL_Serializer.pkg" _msttexthash="444219464" _msthash="230">Microsoft Office 2024 LTSC 批量许可证序列化器（Ventura with M1/M1 PRO/M1 MAX/M1 ULTRA/M2/M2 PRO/M2 MAX/M2 ULTRA/M3/M3 PRO/M3 MAX/M3 ULTRA/macOS Sequoia 本机支持）</a></p>
+<p dir="auto"><strong _msttexthash="8870537" _msthash="231">著名的</strong></p>
+<p dir="auto"><a href="https://support.microsoft.com/office/end-of-support-for-office-2019-for-mac-f2cbba0a-0773-4b2c-b417-b20b5bb2c757" rel="nofollow" _msttexthash="448162611" _msthash="232">Microsoft Office For Mac 16.78 是支持 2019 许可证类型的最后一个版本!!- 官方文档！点击这里</a></p>
+<p dir="auto"><a href="https://go.microsoft.com/fwlink/?linkid=2015804" rel="nofollow" _msttexthash="451915542" _msthash="233">适用于 Office 的 Microsoft Office For Mac 16.89 2024 年 9 月更新至少需要 macOS Ventura - 官方文档！点击这里</a></p>
+<p dir="auto"><a href="https://go.microsoft.com/fwlink/?linkid=2015804" rel="nofollow" _msttexthash="399587604" _msthash="234">Microsoft Office For Mac 16.88 2024 年 8 月更新 macOS Monterey 的 Office 最大值 - 官方文档！点击这里</a></p>
+<p dir="auto"><a href="https://go.microsoft.com/fwlink/?linkid=2015804" rel="nofollow" _msttexthash="477787726" _msthash="235">Microsoft Office For Mac 16.78 2023 年 10 月更新适用于 Office 至少需要 macOS Monterey - 官方文档！点击这里</a></p>
+<p dir="auto"><a href="https://go.microsoft.com/fwlink/?linkid=2015804" rel="nofollow" _msttexthash="469979211" _msthash="236">Microsoft Office For Mac 16.67 2022 年 11 月更新适用于 Office 至少需要 macOS Big Sur - 官方文档！点击这里</a></p>
+<p dir="auto"><strong _msttexthash="480054549" _msthash="237">Microsoft Office 2019/LTSC 2021 套件安装程序批量许可证版本 16.88 （24081116） 最高 12.0.x （Monterey）</strong></p>
+<p dir="auto"><a href="https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.89.24091630_Installer.pkg" rel="nofollow" _msttexthash="27139541" _msthash="238">下载 LINK 安装程序</a></p>
+<p dir="auto"><strong _msttexthash="871686855" _msthash="239">Microsoft Office 2019/LTSC 2021 套件安装程序批量许可证版本 16.78.3 （23102801）（当 Serializer 2021 无法正常工作时）最低 12.0.x （Monterey）</strong></p>
+<p dir="auto"><a href="https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.78.23102801_Installer.pkg" rel="nofollow" _msttexthash="27139541" _msthash="240">下载 LINK 安装程序</a></p>
+<p dir="auto"><strong _msttexthash="478085166" _msthash="241">Microsoft Office 2019/LTSC 2021 套件安装程序批量许可证版本 16.77 （23091003） 最高 11.0.x （Big Sur）</strong></p>
+<p dir="auto"><a href="https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.77.23091003_Installer.pkg" rel="nofollow" _msttexthash="27139541" _msthash="242">下载 LINK 安装程序</a></p>
+<p dir="auto"><strong _msttexthash="209440036" _msthash="243">Microsoft Word Update 2019/LTSC 2021 安装程序 16.77.1 最高 11.0.x （Big Sur）</strong></p>
+<p dir="auto"><a href="https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.77.23091703_Updater.pkg" rel="nofollow" _msttexthash="27139541" _msthash="244">下载 LINK 安装程序</a></p>
+<p dir="auto"><strong _msttexthash="213534048" _msthash="245">Microsoft Excel Update 2019/LTSC 2021 安装程序 16.77.1 最高 11.0.x （Big Sur）</strong></p>
+<p dir="auto"><a href="https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.77.23091703_Updater.pkg" rel="nofollow" _msttexthash="27139541" _msthash="246">下载 LINK 安装程序</a></p>
+<p dir="auto"><strong _msttexthash="234052338" _msthash="247">Microsoft PowerPoint Update 2019/LTSC 2021 安装程序 16.77.1 最高 11.0.x （Big Sur）</strong></p>
+<p dir="auto"><a href="https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.77.23091703_Updater.pkg" rel="nofollow" _msttexthash="27139541" _msthash="248">下载 LINK 安装程序</a></p>
+<p dir="auto"><strong _msttexthash="221744757" _msthash="249">Microsoft Outlook Update 2019/LTSC 2021 安装程序 16.77.1 最高 11.0.x （Big Sur）</strong></p>
+<p dir="auto"><a href="https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.77.23091703_Updater.pkg" rel="nofollow" _msttexthash="27139541" _msthash="250">下载 LINK 安装程序</a></p>
+<p dir="auto"><strong _msttexthash="481748800" _msthash="251">Microsoft Office 2019/LTSC 2021 套件安装程序批量许可证版本 16.66 （22100900） 最高 10.15.x （Catalina）</strong></p>
+<p dir="auto"><a href="https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.66.22101101_Installer.pkg" rel="nofollow" _msttexthash="27139541" _msthash="252">下载 LINK 安装程序</a></p>
+<p dir="auto"><strong _msttexthash="446483648" _msthash="253">Microsoft Office 2019 套件安装程序批量许可证版本 16.54 （21101001），最高 10.14.x （Mojave）</strong></p>
+<p dir="auto"><a href="https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.54.21101001_Installer.pkg" rel="nofollow" _msttexthash="27139541" _msthash="254">下载 LINK 安装程序</a></p>
+<p dir="auto"><strong _msttexthash="401842389" _msthash="255">Microsoft Office 2019 套件安装程序批量许可证版本 16.43 （20110804） 最高 10.13.x （High Sierra）</strong></p>
+<p dir="auto"><a href="https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.43.20110804_Installer.pkg" rel="nofollow" _msttexthash="351013" _msthash="256">DOWNLOAD LINK INSTALLER</a></p>
+<p dir="auto"><strong _msttexthash="4773535" _msthash="257">Microsoft Office 2016 Suite Installer Volume License Version 16.16.27 Minimum 10.10.x (Yosemite)</strong></p>
+<p dir="auto"><a href="https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.16.20101200_Installer.pkg" rel="nofollow" _msttexthash="351013" _msthash="258">DOWNLOAD LINK INSTALLER</a></p>
+<p dir="auto"><strong _msttexthash="4845165" _msthash="259">Microsoft Office 2011 Suite Installer Volume License Version 14.7.7 Minimum 10.6.8 (Snow Leopard)</strong></p>
+<p dir="auto"><a href="https://officecdn-microsoft-com.akamaized.net/PR/MacOffice2011/en-us/MicrosoftOffice2011.dmg" rel="nofollow" _msttexthash="351013" _msthash="260">DOWNLOAD LINK INSTALLER</a></p>
+<hr>
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto" _msttexthash="137475" _msthash="261">Activator</h1><a id="user-content-activator" class="anchor" aria-label="Permalink: Activator" href="#activator" _mstaria-label="406510" _msthash="262"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><strong _msttexthash="2615600" _msthash="263">Microsoft Office 2016, 2019 2021 &amp; 2024 Activator / License_Serializer</strong></p>
+<p dir="auto"><a href="https://github.com/alsyundawy/Microsoft-Office-For-MacOS/blob/master/DATA/Microsoft_Office_LTSC_2024_VL_Serializer.pkg" _msttexthash="17605211" _msthash="264">Microsoft Office 2024 LTSC Volume License Serializer (Monterey With M1/M1 PRO/M1 MAX/M1 ULTRA/M2/M2 PRO/M2 MAX/M2 ULTRA/M3/M3 PRO/M3 MAX/M3 ULTRA/M4/M4 PRO/M4 MAX/M4 ULTRA/macOS Sequoia Native Support)</a></p>
+<p dir="auto"><a href="https://github.com/alsyundawy/Microsoft-Office-For-MacOS/raw/master/DATA/Microsoft_Office_LTSC_2021_VL_Serializer.pkg" _msttexthash="17604236" _msthash="265">Microsoft Office 2021 LTSC Volume License Serializer (Monterey With M1/M1 PRO/M1 MAX/M1 ULTRA/M2/M2 PRO/M2 MAX/M2 ULTRA/M3/M3 PRO/M3 MAX/M3 ULTRA/M4/M4 PRO/M4 MAX/M4 ULTRA/macOS SequoiaNative Support)</a></p>
+<p dir="auto"><a href="https://github.com/alsyundawy/Microsoft-Office-For-MacOS/raw/master/DATA/SW_DVD5_Office_Mac_Serializer_2021_MLF_X22-74226.ISO" _msttexthash="18922969" _msthash="266">Microsoft Office 2021 LTSC Volume License Serializer MSDN ISO (Monterey With M1/M1 PRO/M1 MAX/M1 ULTRA/M2/M2 PRO/M2 MAX/M2 ULTRA/M3/M3 PRO/M3 MAX/M3 ULTRA/M4/M4 PRO/M4 MAX/M4 ULTRA/macOS Sequoia Native Support)</a></p>
+<p dir="auto"><a href="https://github.com/alsyundawy/Microsoft-Office-For-MacOS/raw/master/DATA/Microsoft_Office_2019_VL_Serializer_Universal.pkg" _msttexthash="25817935" _msthash="267">Microsoft Office 2019 Volume License Serializer  (M1/M1 PRO/M1 MAX/M1 ULTRA/M2/M2 PRO/M2 MAX/M2 ULTRA/M3/M3 PRO/M3 MAX/M3 ULTRA/M4/M4 PRO/M4 MAX/M4 ULTRA Support) Microsoft Office For Mac 16.78 is the last build to support 2019 license types </a></p>
+<p dir="auto"><a href="https://github.com/alsyundawy/Microsoft-Office-For-MacOS/raw/master/DATA/SW_DVD5_Office_Mac_Serializer_2019_MLF_X22-61752.ISO" _msttexthash="27407380" _msthash="268">Microsoft Office 2019 Volume License Serializer MSDN ISO (M1/M1 PRO/M1 MAX/M1 ULTRA/M2/M2 PRO/M2 MAX/M2 ULTRA/M3/M3 PRO/M3 MAX/M3 ULTRA/M4/M4 PRO/M4 MAX/M4 ULTRA Support) Microsoft Office For Mac 16.78 is the last build to support 2019 license types </a></p>
+<p dir="auto"><a href="https://github.com/alsyundawy/Microsoft-Office-For-MacOS/raw/master/DATA/Microsoft_Office_2019_VL_Serializer.pkg" _msttexthash="3769350" _msthash="269">Microsoft Office 2019 Volume License Serializer (Maximum Version 16.68 without 365)</a></p>
+<p dir="auto"><a href="https://github.com/alsyundawy/Microsoft-Office-For-MacOS/raw/master/DATA/SWDVD5_Office_Mac_Serializer_2019_MLF_X21-88135.iso" _msttexthash="4521257" _msthash="270">Microsoft Office 2019 Volume License Serializer (MSDN ISO) (Maximum Version 16.68 without 365)</a></p>
+<p dir="auto"><a href="https://github.com/alsyundawy/Microsoft-Office-For-MacOS/raw/master/DATA/Microsoft_Office_2016_VL_Serializer_2.0.pkg" _msttexthash="1864720" _msthash="271">Microsoft_Office_2016_Volume License Serializer_v2</a></p>
+<p dir="auto"><strong _msttexthash="709943" _msthash="272">Microsoft Office 2011 Activator</strong></p>
+<p dir="auto"><a href="https://github.com/alsyundawy/Microsoft-Office-For-MacOS/raw/master/DATA/vlmsommxi.dmg" _msttexthash="1815164" _msthash="273">Microsoft_Office_2011_Volume_License_Serializer</a></p>
+<p dir="auto"><strong _msttexthash="76193" _msthash="274">Or Keys</strong></p>
+<p dir="auto"><strong _msttexthash="548275" _msthash="275">2WBVT-PTKRB-2RH2B-X2DYY-QBXP4</strong></p>
+<p dir="auto"><strong _msttexthash="517244" _msthash="276">V22QX-RC6F3-CMWP7-WV6DH-K29P7</strong></p>
+<p dir="auto"><strong _msttexthash="561041" _msthash="277">KCDHJ-KGTKV-788PG-WVBQT-GRWX8</strong></p>
+<p dir="auto"><strong _msttexthash="524849" _msthash="278">4FVWX-W7Q37-GKYMW-JDWWR-89763</strong></p>
+<p dir="auto"><strong _msttexthash="528658" _msthash="279">6JTF2-PM3PD-62WQY-TBC3V-H7KKC</strong></p>
+<p dir="auto"><strong _msttexthash="521300" _msthash="280">4D484-GT8D2-CMR2M-WBJ49-GWFTD</strong></p>
+<p dir="auto"><strong _msttexthash="516542" _msthash="281">KB3V9-3T4X4-32YR6-MX62Q-CVMK4</strong></p>
+<p dir="auto"><strong _msttexthash="545519" _msthash="282">YPWTM-X3QR3-QHV8Q-9QH9H-RMHX3</strong></p>
+<p dir="auto"><strong _msttexthash="514241" _msthash="283">C7TTK-M29H8-9H7JR-P82WG-2DCDW</strong></p>
+<hr>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto" _msttexthash="15640274" _msthash="284">(Optional step) Run the following commands on Terminal. They will disable telemetry. Copy and paste the following to the Terminal windows and hit "enter" / return key twice:</h3><a id="user-content-optional-step-run-the-following-commands-on-terminal-they-will-disable-telemetry-copy-and-paste-the-following-to-the-terminal-windows-and-hit-enter--return-key-twice" class="anchor" aria-label="Permalink: (Optional step) Run the following commands on Terminal. They will disable telemetry. Copy and paste the following to the Terminal windows and hit &quot;enter&quot; / return key twice:" href="#optional-step-run-the-following-commands-on-terminal-they-will-disable-telemetry-copy-and-paste-the-following-to-the-terminal-windows-and-hit-enter--return-key-twice" _mstaria-label="17752839" _msthash="285"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>defaults write com.microsoft.Word SendAllTelemetryEnabled -bool FALSE
 defaults write com.microsoft.Excel SendAllTelemetryEnabled -bool FALSE
 defaults write com.microsoft.Powerpoint SendAllTelemetryEnabled -bool FALSE
 defaults write com.microsoft.Outlook SendAllTelemetryEnabled -bool FALSE
 defaults write com.microsoft.onenote.mac SendAllTelemetryEnabled -bool FALSE
 defaults write com.microsoft.autoupdate2 SendAllTelemetryEnabled -bool FALSE
 defaults write com.microsoft.Office365ServiceV2 SendAllTelemetryEnabled -bool FALSE
-```
-
----
-
-### Optionally you can disable the cloud login features. Copy and paste the following to Terminal and hit "enter" twice:
-```
-defaults write com.microsoft.Word UseOnlineContent -integer 0
+</code></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="defaults write com.microsoft.Word SendAllTelemetryEnabled -bool FALSE
+defaults write com.microsoft.Excel SendAllTelemetryEnabled -bool FALSE
+defaults write com.microsoft.Powerpoint SendAllTelemetryEnabled -bool FALSE
+defaults write com.microsoft.Outlook SendAllTelemetryEnabled -bool FALSE
+defaults write com.microsoft.onenote.mac SendAllTelemetryEnabled -bool FALSE
+defaults write com.microsoft.autoupdate2 SendAllTelemetryEnabled -bool FALSE
+defaults write com.microsoft.Office365ServiceV2 SendAllTelemetryEnabled -bool FALSE" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<hr>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto" _msttexthash="7264504" _msthash="286">Optionally you can disable the cloud login features. Copy and paste the following to Terminal and hit "enter" twice:</h3><a id="user-content-optionally-you-can-disable-the-cloud-login-features-copy-and-paste-the-following-to-terminal-and-hit-enter-twice" class="anchor" aria-label="Permalink: Optionally you can disable the cloud login features. Copy and paste the following to Terminal and hit &quot;enter&quot; twice:" href="#optionally-you-can-disable-the-cloud-login-features-copy-and-paste-the-following-to-terminal-and-hit-enter-twice" _mstaria-label="8737209" _msthash="287"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>defaults write com.microsoft.Word UseOnlineContent -integer 0
 defaults write com.microsoft.Excel UseOnlineContent -integer 0
 defaults write com.microsoft.Powerpoint UseOnlineContent -integer 0
-```
----
-
-### Troubleshoot 
-
-```
-How about the Office reset tool linked by sleepy hollow just above your post?
+</code></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="defaults write com.microsoft.Word UseOnlineContent -integer 0
+defaults write com.microsoft.Excel UseOnlineContent -integer 0
+defaults write com.microsoft.Powerpoint UseOnlineContent -integer 0" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<hr>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto" _msttexthash="211601" _msthash="288">Troubleshoot</h3><a id="user-content-troubleshoot" class="anchor" aria-label="Permalink: Troubleshoot" href="#troubleshoot" _mstaria-label="526006" _msthash="289"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>How about the Office reset tool linked by sleepy hollow just above your post?
 Only when the ancient remnants of some installation also removed, it worked.
 but then I was extra careful. deleted everything with "microsoft", "office" or "365" i found.
 ~/Application Support/
@@ -198,51 +133,50 @@ office package installed
 another reboot (as i said. I was careful)
 then installed the 2021 VL serializer
 now it works!
-```
----
-
-## Tutorial: Remove Office License and Install a new Office Volume License using Serializer
-### First, log off every account that logs on to Microsoft Word.
-### Second, download this and install it. You won't get any new apps but after running it will clear your Office license. [License Removal Tool](https://go.microsoft.com/fwlink/?linkid=849815)
-### Last, download this and install it.  You won't get new apps but this will activate your Office. [Serializer](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/raw/master/DATA/Microsoft_Office_LTSC_2021_VL_Serializer.pkg)
-### You will get Office 2021 now.
-
----
-
-### If you encounter any problem, just try to reinstall Microsoft Office:
-#### First, Open Finder and go to Applications on the left side, Remove All Microsoft Office Applications. Or you can use [AppCleaner](https://freemacsoft.net/downloads/AppCleaner_3.6.8.zip) for complete uninstall
-#### Next, click the link and install a new copy of Microsoft Office [Office Installer 16.66](https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.66.22101101_Installer.pkg), don't open it after it's installed.
-#### Then, try to repeat those process but this time use the file you've already downloaded.
-#### Hint: License Removal Tool is `Microsoft_Office_License_Removal_2.7.pkg` and Serializer is `Microsoft_Office_LTSC_2021_VL_Serializer.pkg`
-
-
----
-
-## Microsoft Office Mac Tools
-
-
-**Office-Reset, Designed to troubleshoot and fix Microsoft Office for Mac errors**
-
-[Office-Reset 1.9.1](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/blob/master/DATA/Microsoft_Office_Reset_1.9.1.pkg)
-
-[Office-Reset 2.0 Beta 1](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/blob/master/DATA/Microsoft_Office_Reset_2.0.0.pkg)
-
-[Office-Reset ChangeLog](https://office-reset.com/changelog/)
-
-
-
-**License Removal Tool, Official Microsoft tool to remove all Office licenses from a computer**
-
-[License Removal Tool 2.7](https://go.microsoft.com/fwlink/?linkid=849815)
-
----
-
-## **You Are Awesome | ༺ Harry DS Alsyundawy ༻ | Hardline & Militant Lying Around**
-## **༺ Just Me, I & My Self. No Body Perfect. I Am Internet Addict, Windows, Mac & Linux Lover, I Am Not Good Man But The Man In Good Day  ༻**
-
----
-
-## GitHub Stats
-
-![Alt](https://repobeats.axiom.co/api/embed/d1ae05f2c9410d56827e4e743f814e6284b1eebc.svg "Repobeats analytics image")
-
+</code></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="How about the Office reset tool linked by sleepy hollow just above your post?
+Only when the ancient remnants of some installation also removed, it worked.
+but then I was extra careful. deleted everything with &quot;microsoft&quot;, &quot;office&quot; or &quot;365&quot; i found.
+~/Application Support/
+~/Preferences/
+don´t forget ~/Group Containers/UBF8T346G9xxxx
+then a reboot
+office package installed
+another reboot (as i said. I was careful)
+then installed the 2021 VL serializer
+now it works!" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<hr>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="4560400" _msthash="290">Tutorial: Remove Office License and Install a new Office Volume License using Serializer</h2><a id="user-content-tutorial-remove-office-license-and-install-a-new-office-volume-license-using-serializer" class="anchor" aria-label="Permalink: Tutorial: Remove Office License and Install a new Office Volume License using Serializer" href="#tutorial-remove-office-license-and-install-a-new-office-volume-license-using-serializer" _mstaria-label="5723055" _msthash="291"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto" _msttexthash="2142452" _msthash="292">First, log off every account that logs on to Microsoft Word.</h3><a id="user-content-first-log-off-every-account-that-logs-on-to-microsoft-word" class="anchor" aria-label="Permalink: First, log off every account that logs on to Microsoft Word." href="#first-log-off-every-account-that-logs-on-to-microsoft-word" _mstaria-label="2969187" _msthash="293"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto" _msttexthash="9984065" _msthash="294">Second, download this and install it. You won't get any new apps but after running it will clear your Office license. <a href="https://go.microsoft.com/fwlink/?linkid=849815" rel="nofollow">License Removal Tool</a></h3><a id="user-content-second-download-this-and-install-it-you-wont-get-any-new-apps-but-after-running-it-will-clear-your-office-license-license-removal-tool" class="anchor" aria-label="Permalink: Second, download this and install it. You won't get any new apps but after running it will clear your Office license. License Removal Tool" href="#second-download-this-and-install-it-you-wont-get-any-new-apps-but-after-running-it-will-clear-your-office-license-license-removal-tool" _mstaria-label="11690250" _msthash="295"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto" _msttexthash="6045507" _msthash="296">Last, download this and install it.  You won't get new apps but this will activate your Office. <a href="https://github.com/alsyundawy/Microsoft-Office-For-MacOS/raw/master/DATA/Microsoft_Office_LTSC_2021_VL_Serializer.pkg">Serializer</a></h3><a id="user-content-last-download-this-and-install-it--you-wont-get-new-apps-but-this-will-activate-your-office-serializer" class="anchor" aria-label="Permalink: Last, download this and install it.  You won't get new apps but this will activate your Office. Serializer" href="#last-download-this-and-install-it--you-wont-get-new-apps-but-this-will-activate-your-office-serializer" _mstaria-label="7385872" _msthash="297"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto" _msttexthash="515775" _msthash="298">You will get Office 2021 now.</h3><a id="user-content-you-will-get-office-2021-now" class="anchor" aria-label="Permalink: You will get Office 2021 now." href="#you-will-get-office-2021-now" _mstaria-label="954720" _msthash="299"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<hr>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto" _msttexthash="2884492" _msthash="300">If you encounter any problem, just try to reinstall Microsoft Office:</h3><a id="user-content-if-you-encounter-any-problem-just-try-to-reinstall-microsoft-office" class="anchor" aria-label="Permalink: If you encounter any problem, just try to reinstall Microsoft Office:" href="#if-you-encounter-any-problem-just-try-to-reinstall-microsoft-office" _mstaria-label="3841097" _msthash="301"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto" _msttexthash="12015705" _msthash="302">First, Open Finder and go to Applications on the left side, Remove All Microsoft Office Applications. Or you can use <a href="https://freemacsoft.net/downloads/AppCleaner_3.6.8.zip" rel="nofollow">AppCleaner</a> for complete uninstall</h4><a id="user-content-first-open-finder-and-go-to-applications-on-the-left-side-remove-all-microsoft-office-applications-or-you-can-use-appcleaner-for-complete-uninstall" class="anchor" aria-label="Permalink: First, Open Finder and go to Applications on the left side, Remove All Microsoft Office Applications. Or you can use AppCleaner for complete uninstall" href="#first-open-finder-and-go-to-applications-on-the-left-side-remove-all-microsoft-office-applications-or-you-can-use-appcleaner-for-complete-uninstall" _mstaria-label="13863200" _msthash="303"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto" _msttexthash="7648017" _msthash="304">Next, click the link and install a new copy of Microsoft Office <a href="https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.66.22101101_Installer.pkg" rel="nofollow">Office Installer 16.66</a>, don't open it after it's installed.</h4><a id="user-content-next-click-the-link-and-install-a-new-copy-of-microsoft-office-office-installer-1666-dont-open-it-after-its-installed" class="anchor" aria-label="Permalink: Next, click the link and install a new copy of Microsoft Office Office Installer 16.66, don't open it after it's installed." href="#next-click-the-link-and-install-a-new-copy-of-microsoft-office-office-installer-1666-dont-open-it-after-its-installed" _mstaria-label="9132162" _msthash="305"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto" _msttexthash="4271202" _msthash="306">Then, try to repeat those process but this time use the file you've already downloaded.</h4><a id="user-content-then-try-to-repeat-those-process-but-this-time-use-the-file-youve-already-downloaded" class="anchor" aria-label="Permalink: Then, try to repeat those process but this time use the file you've already downloaded." href="#then-try-to-repeat-those-process-but-this-time-use-the-file-youve-already-downloaded" _mstaria-label="5418387" _msthash="307"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto"><font _mstmutation="1" _msttexthash="1440647" _msthash="308">Hint: License Removal Tool is  and Serializer is </font><code>Microsoft_Office_License_Removal_2.7.pkg</code><code>Microsoft_Office_LTSC_2021_VL_Serializer.pkg</code></h4><a id="user-content-hint-license-removal-tool-is-microsoft_office_license_removal_27pkg-and-serializer-is-microsoft_office_ltsc_2021_vl_serializerpkg" class="anchor" aria-label="Permalink: Hint: License Removal Tool is Microsoft_Office_License_Removal_2.7.pkg and Serializer is Microsoft_Office_LTSC_2021_VL_Serializer.pkg" href="#hint-license-removal-tool-is-microsoft_office_license_removal_27pkg-and-serializer-is-microsoft_office_ltsc_2021_vl_serializerpkg" _mstaria-label="12307516" _msthash="309"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<hr>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="548535" _msthash="310">Microsoft Office Mac Tools</h2><a id="user-content-microsoft-office-mac-tools" class="anchor" aria-label="Permalink: Microsoft Office Mac Tools" href="#microsoft-office-mac-tools" _mstaria-label="999440" _msthash="311"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><strong _msttexthash="3740217" _msthash="312">Office-Reset, Designed to troubleshoot and fix Microsoft Office for Mac errors</strong></p>
+<p dir="auto"><a href="https://github.com/alsyundawy/Microsoft-Office-For-MacOS/blob/master/DATA/Microsoft_Office_Reset_1.9.1.pkg" _msttexthash="256334" _msthash="313">Office-Reset 1.9.1</a></p>
+<p dir="auto"><a href="https://github.com/alsyundawy/Microsoft-Office-For-MacOS/blob/master/DATA/Microsoft_Office_Reset_2.0.0.pkg" _msttexthash="359671" _msthash="314">Office-Reset 2.0 Beta 1</a></p>
+<p dir="auto"><a href="https://office-reset.com/changelog/" rel="nofollow" _msttexthash="451113" _msthash="315">Office-Reset ChangeLog</a></p>
+<p dir="auto"><strong _msttexthash="4878796" _msthash="316">License Removal Tool, Official Microsoft tool to remove all Office licenses from a computer</strong></p>
+<p dir="auto"><a href="https://go.microsoft.com/fwlink/?linkid=849815" rel="nofollow" _msttexthash="427427" _msthash="317">License Removal Tool 2.7</a></p>
+<hr>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><strong _msttexthash="6053216" _msthash="318">You Are Awesome | ༺ Harry DS Alsyundawy ༻ | Hardline &amp; Militant Lying Around</strong></h2><a id="user-content-you-are-awesome---harry-ds-alsyundawy---hardline--militant-lying-around" class="anchor" aria-label="Permalink: You Are Awesome | ༺ Harry DS Alsyundawy ༻ | Hardline &amp; Militant Lying Around" href="#you-are-awesome---harry-ds-alsyundawy---hardline--militant-lying-around" _mstaria-label="8411923" _msthash="319"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><strong _msttexthash="13316745" _msthash="320">༺ Just Me, I &amp; My Self. No Body Perfect. I Am Internet Addict, Windows, Mac &amp; Linux Lover, I Am Not Good Man But The Man In Good Day  ༻</strong></h2><a id="user-content--just-me-i--my-self-no-body-perfect-i-am-internet-addict-windows-mac--linux-lover-i-am-not-good-man-but-the-man-in-good-day--" class="anchor" aria-label="Permalink: ༺ Just Me, I &amp; My Self. No Body Perfect. I Am Internet Addict, Windows, Mac &amp; Linux Lover, I Am Not Good Man But The Man In Good Day  ༻" href="#-just-me-i--my-self-no-body-perfect-i-am-internet-addict-windows-mac--linux-lover-i-am-not-good-man-but-the-man-in-good-day--" _mstaria-label="17351191" _msthash="321"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<hr>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="175929" _msthash="322">GitHub Stats</h2><a id="user-content-github-stats" class="anchor" aria-label="Permalink: GitHub Stats" href="#github-stats" _mstaria-label="466414" _msthash="323"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ebfbbf3905ff9a85da903836d7fa971955112eba5452a84b56a37a4758fdf8c3/68747470733a2f2f7265706f62656174732e6178696f6d2e636f2f6170692f656d6265642f643161653035663263393431306435363832376534653734336638313465363238346231656562632e737667"><img src="https://camo.githubusercontent.com/ebfbbf3905ff9a85da903836d7fa971955112eba5452a84b56a37a4758fdf8c3/68747470733a2f2f7265706f62656174732e6178696f6d2e636f2f6170692f656d6265642f643161653035663263393431306435363832376534653734336638313465363238346231656562632e737667" alt="Alt" title="Repobeats analytics image" data-canonical-src="https://repobeats.axiom.co/api/embed/d1ae05f2c9410d56827e4e743f814e6284b1eebc.svg" style="max-width: 100%;" _mstalt="30719" _msthash="324"></a></p>
+</article></div>
